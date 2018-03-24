@@ -1,4 +1,4 @@
-package io.github.magi82.rxviewbinder_kotlin
+package com.github.magi82.rxviewbinder_kotlin
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("io.github.magi82.rxviewbinder_kotlin", appContext.packageName)
+        assertEquals("com.github.magi82.rxviewbinder_kotlin", appContext.packageName)
     }
 }

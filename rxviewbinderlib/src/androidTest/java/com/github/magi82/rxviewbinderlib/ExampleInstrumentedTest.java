@@ -1,4 +1,4 @@
-package io.github.magi82.rxviewbinderlib;
+package com.github.magi82.rxviewbinderlib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("io.github.magi82.rxviewbinderlib.test", appContext.getPackageName());
+        assertEquals("com.github.magi82.rxviewbinderlib.test", appContext.getPackageName());
     }
 }

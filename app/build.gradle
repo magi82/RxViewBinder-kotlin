@@ -7,7 +7,7 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "io.github.magi82.rxviewbinder_kotlin"
+        applicationId "com.github.magi82.rxviewbinder_kotlin"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1

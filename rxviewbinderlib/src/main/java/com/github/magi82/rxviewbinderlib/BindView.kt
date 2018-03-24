@@ -1,4 +1,4 @@
-package io.github.magi82.rxviewbinder
+package com.github.magi82.rxviewbinder
 
 import io.reactivex.disposables.CompositeDisposable
 

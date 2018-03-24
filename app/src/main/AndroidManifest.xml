@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.github.magi82.rxviewbinder_kotlin">
+    package="com.github.magi82.rxviewbinder_kotlin">
 
     <application
         android:allowBackup="true"

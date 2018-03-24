@@ -1,4 +1,4 @@
-package io.github.magi82.rxviewbinderlib;
+package com.github.magi82.rxviewbinderlib;
 
 import org.junit.Test;
 

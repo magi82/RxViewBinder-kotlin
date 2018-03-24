@@ -1,4 +1,4 @@
-package io.github.magi82.rxviewbinder_kotlin
+package com.github.magi82.rxviewbinder_kotlin
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
